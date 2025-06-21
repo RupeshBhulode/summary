@@ -2,3 +2,4 @@ fastapi
 uvicorn
 sentence-transformers==2.2.2
 scikit-learn
+huggingface_hub==0.10.1   # 👈 Fixes the import error!
